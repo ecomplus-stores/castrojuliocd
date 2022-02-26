@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://castrojuliocd.netlify.app/slug-url</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://castrojuliocd.netlify.app/saidas-de-praia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -59,6 +53,18 @@
       <loc>https://castrojuliocd.netlify.app/saidas-sem-transparencia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://castrojuliocd.netlify.app/slug-url</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://castrojuliocd.netlify.app/saida-teste</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
